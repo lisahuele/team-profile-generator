@@ -9,6 +9,13 @@ test("retrieve manager's office number", () => {
     expect(newManager.officeNumber).toBe(testOfficeNumber);
 });
 
+test("retrive office number using getOfficeNumber method", () => {
+    const testOfficeNumber = 104;
+    const newManager = new Manager(Employee.name, Employee.id, Employee.email, testOfficeNumber);
+
+    expect(newManager.getOfficeNumber()).toBe(testOfficeNumber);
+});
+
 test("retrive role using getRole method", () => {
     const returnValue = "Manager";
     const newManager = new Manager(Employee.name, Employee.id, Employee.email, 104);
