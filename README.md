@@ -7,6 +7,7 @@ The focus of this is around Object Orientated Programming and unit testing. The 
 ## Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo] (#demo)
 - [Built With](#built-with)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -21,6 +22,9 @@ npm  inquirer
 
 ## Usage
 After installing the required packages, use the command line to navigate to the root of the application and run `node index`. 
+
+## Demo
+
 
 ## Built With
 - Node.js
