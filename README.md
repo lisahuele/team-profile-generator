@@ -24,7 +24,7 @@ npm  inquirer
 After installing the required packages, use the command line to navigate to the root of the application and run `node index`. 
 
 ## Demo
-![Demo video](./demo/tutorial.mov)
+![Demo video](/demo/tutorial.mov)
 
 ## Built With
 - Node.js
