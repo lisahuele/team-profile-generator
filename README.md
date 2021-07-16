@@ -40,7 +40,7 @@ Proceed to follow the prompted provided in the terminal. Afterwards, an html fil
 
 ## Demo
 Click the link below for a video demonstration of the application.
-![Demo video](https://youtu.be/irl9yZnsrd4)
+[Demo video](https://youtu.be/irl9yZnsrd4)
 
 What the command-line interface looks like:
 ![Command-line interface](./demo/command-line-interface.png)
@@ -69,7 +69,7 @@ What the tests passing looks like:
 ![Test passing](./demo/test-passing.png)
 
 Click the link below for a video demonstration of the tests passing.
-![Demo video](https://youtu.be/5trHoUohS_c)
+[Test demo video](https://youtu.be/5trHoUohS_c)
 
 ## Questions
 If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, [lisahuele](https://github.com/lisahuele).
