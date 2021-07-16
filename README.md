@@ -68,6 +68,9 @@ npm run test
 What the tests passing looks like:
 ![Test passing](./demo/test-passing.png)
 
+Click the link below for a video demonstration of the tests passing.
+![Demo video](https://youtu.be/5trHoUohS_c)
+
 ## Questions
 If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, [lisahuele](https://github.com/lisahuele).
 
