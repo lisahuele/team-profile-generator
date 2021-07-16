@@ -10,6 +10,7 @@ The focus of this is around Object Orientated Programming and unit testing. The 
 - [Demo](#demo)
 - [Built With](#built-with)
 - [Tests](#tests)
+- [Deployed Application](#deployed application)
 - [Questions](#questions)
 - [Credits](#credits)
 
@@ -70,6 +71,9 @@ What the tests passing looks like:
 
 Click the link below for a video demonstration of the tests passing.
 [Test demo video](https://youtu.be/5trHoUohS_c)
+
+## Deployed Application
+[Sample of HTML file generated using the application](https://lisahuele.github.io/team-profile-generator/output/teamgenerator.html)
 
 ## Questions
 If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, [lisahuele](https://github.com/lisahuele).
