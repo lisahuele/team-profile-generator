@@ -14,23 +14,59 @@ The focus of this is around Object Orientated Programming and unit testing. The 
 - [Credits](#credits)
 
 ## Installation
-To use this application, please install:
+To install all the dependencies, use the command below
 
 ```
-npm  inquirer
+npm  install inquirer
 ```
 
 ## Usage
-After installing the required packages, use the command line to navigate to the root of the application and run `node index`. 
+To use this application, clone the repository to your local machine:
+```
+git clone git@github.com:lisahuele/team-profile-generator.git
+```
+
+Then, ensure you have installed the dependencies with the command:
+```
+npm  install inquirer
+```
+
+When you are ready to run the application, from the root directory, type the command:
+```
+node index
+```
+
+Proceed to follow the prompted provided in the terminal. Afterwards, an html file will generate in the `output` directory.
 
 ## Demo
-![Demo video](/demo/tutorial.mov)
+Click the link below for a video demonstration of the application.
+![Demo video](https://youtu.be/irl9yZnsrd4)
+
+What the command-line interface looks like:
+![Command-line interface](./demo/command-line-interface.png)
+
+What the front-end interface will look like:
+![Mock-up](./demo/Mock-up.png)
+
+What the tests passing looks like:
+![Test passing](./demo/test-passing.png)
 
 ## Built With
 - Node.js
 - Bootstrap
 - Jest
 - Inquirer
+
+## Tests
+To run the tests for this application, install jest:
+```
+npm install jest
+```
+
+Then, enter the following command:
+```
+npm run test
+```
 
 ## Questions
 If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, [lisahuele](https://github.com/lisahuele).
