@@ -48,9 +48,6 @@ What the command-line interface looks like:
 What the front-end interface will look like:
 ![Mock-up](./demo/Mock-up.png)
 
-What the tests passing looks like:
-![Test passing](./demo/test-passing.png)
-
 ## Built With
 - Node.js
 - Bootstrap
@@ -67,6 +64,9 @@ Then, enter the following command:
 ```
 npm run test
 ```
+
+What the tests passing looks like:
+![Test passing](./demo/test-passing.png)
 
 ## Questions
 If you have any questions about the repo, please contact me via email at lisahuele@gmail.com. You can find more of my work on my GitHub, [lisahuele](https://github.com/lisahuele).
